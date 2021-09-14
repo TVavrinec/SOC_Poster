@@ -9,6 +9,9 @@
    id="svg273949"
    inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
    sodipodi:docname="poster_en.svg"
+   inkscape:export-filename="/media/mtar/disk/GitHub/SOC_Poster/poster_en.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1581.0908"
-     inkscape:cy="2497.5011"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1463.711"
+     inkscape:cy="3695.34"
      inkscape:window-width="1916"
      inkscape:window-height="1048"
      inkscape:window-x="1920"
@@ -1446,12 +1449,12 @@
            x="268.23978"
            y="534.02032"
            sodipodi:role="line"
-           id="tspan299105">In gaming in nature, </tspan><tspan
+           id="tspan508232">In outdoor gaming, you can </tspan><tspan
            style="font-size:12.7px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="268.23978"
            y="549.89532"
            sodipodi:role="line"
-           id="tspan508232">you can replace an instructor </tspan><tspan
+           id="tspan602443">replace an instructor </tspan><tspan
            style="font-size:12.7px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="268.23978"
            y="565.77032"
@@ -1524,7 +1527,7 @@
          style="font-size:19.7556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="419.33307"
          y="114.38184"
-         id="tspan402187">and interactive learning to programming</tspan></text>
+         id="tspan402187">and interactive way to learn programming</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;white-space:pre;inline-size:153.717;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1534,9 +1537,9 @@
        transform="matrix(1.0000014,0,0,1,-6.5069827e-4,0.5047704)"><tspan
          x="419.57922"
          y="144.15027"
-         id="tspan571035"><tspan
+         id="tspan625874"><tspan
            style="font-size:16.9333px;-inkscape-font-specification:sans-serif;fill:#646464;stroke-width:0.264583"
-           id="tspan571033">Tomáš Vavrinec</tspan></tspan></text>
+           id="tspan625872">Tomáš Vavrinec</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12.7001px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264586"
@@ -25666,7 +25669,7 @@ LTkacIQhth5AHoWKCBiZ5TF6+h//AKWlDQXMM8YnA0K2wMIuM3V5ZRd//wCiqj9Sf//Z
            style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="228.25563"
            y="418.18692"
-           id="tspan481458">is storage for locking something.</tspan></text>
+           id="tspan481458">is storage for lock something.</tspan></text>
     </g>
     <image
        width="178.58615"
@@ -26211,436 +26214,422 @@ LTkacIQhth5AHoWKCBiZ5TF6+h//AKWlDQXMM8YnA0K2wMIuM3V5ZRd//wCiqj9Sf//Z
            style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="717.013"
            y="371.08383"
-           id="tspan329140">You can simply control </tspan><tspan
+           id="tspan465550">It can be controlled directly </tspan><tspan
            sodipodi:role="line"
            style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="717.013"
            y="386.95883"
-           id="tspan465542">BlackBox with him, </tspan><tspan
+           id="tspan609432">or for example via </tspan><tspan
            sodipodi:role="line"
            style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
            x="717.013"
            y="402.83383"
-           id="tspan465546">or to distance for example </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:12.7px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="717.013"
-           y="418.70883"
-           id="tspan465550">with a mobile phone.</tspan></text>
+           id="tspan609434">your smartphone.</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="183.14371"
+       y="908.96442"
+       id="text295185-9"><tspan
+         style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="183.14371"
+         y="908.96442"
+         sodipodi:role="line"
+         id="tspan383696">Practical use of the BlackBox </tspan><tspan
+         style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="183.14371"
+         y="926.60327"
+         sodipodi:role="line"
+         id="tspan540258">started in 2019 to test him.</tspan><tspan
+         style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="183.14371"
+         y="944.24219"
+         sodipodi:role="line"
+         id="tspan540256">    To the 2020 used BlackBox </tspan><tspan
+         style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="183.14371"
+         y="961.88104"
+         sodipodi:role="line"
+         id="tspan540260">for at least 110 people.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264584"
+       x="678.00116"
+       y="882.57721"
+       id="text278561-0-9"><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="678.00116"
+         y="882.57721"
+         id="tspan378150">Basis of feedback, </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="678.00116"
+         y="900.21606"
+         id="tspan625083">in the 2021 has been designed </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="678.00116"
+         y="917.85498"
+         id="tspan614057">the next device, Lantern. </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="678.00116"
+         y="935.49384"
+         id="tspan568047">    Now the devices have 322 </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="678.00116"
+         y="953.13269"
+         id="tspan568051">enthusiastic users on many </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
+         x="678.00116"
+         y="970.77161"
+         id="tspan568053">camps or adventure events.</tspan></text>
+    <g
+       id="g319151"
+       transform="matrix(0.56738436,0,0,0.56738615,332.47497,838.27546)">
+      <circle
+         cx="174"
+         cy="122"
+         fill="#edebdc"
+         r="92"
+         id="circle319009"
+         style="fill:#edeb9f;fill-opacity:1" />
+      <path
+         d="m 126,78 c -2.209,0 -4,-1.791 -4,-4 v -8 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 8 c 0,2.209 -1.791,4 -4,4 z"
+         fill="#4c241d"
+         id="path319011" />
+      <path
+         d="m 126,102 c -2.209,0 -4,-1.791 -4,-4 v -8 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 8 c 0,2.209 -1.791,4 -4,4 z"
+         fill="#4c241d"
+         id="path319013" />
+      <path
+         d="m 118,86 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+         fill="#4c241d"
+         id="path319015" />
+      <path
+         d="m 142,86 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+         fill="#4c241d"
+         id="path319017" />
+      <path
+         d="m 68,70 c -7.719,0 -14,-6.281 -14,-14 0,-7.719 6.281,-14 14,-14 7.719,0 14,6.281 14,14 0,7.719 -6.281,14 -14,14 z m 0,-20 c -3.309,0 -6,2.691 -6,6 0,3.309 2.691,6 6,6 3.309,0 6,-2.691 6,-6 0,-3.309 -2.691,-6 -6,-6 z"
+         fill="#4c241d"
+         id="path319019" />
+      <circle
+         cx="106.828"
+         cy="47.452999"
+         fill="#4c241d"
+         r="4.276"
+         id="circle319021" />
+      <path
+         d="M 234,270 H 66 C 46.118,270 30,253.882 30,234 v -8 h 240 v 8 c 0,19.882 -16.118,36 -36,36 z"
+         fill="#ffded5"
+         id="path319023" />
+      <g
+         id="g319029">
+        <path
+           d="M 174,226 V 34"
+           fill="#77a052"
+           id="path319025" />
+        <path
+           d="m 174,230 c -2.209,0 -4,-1.791 -4,-4 V 34 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 192 c 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319027" />
+      </g>
+      <g
+         id="g319035">
+        <path
+           d="M 90,126 38,226 h 104 z"
+           fill="#77a052"
+           id="path319031"
+           style="fill:#a87028;fill-opacity:1" />
+        <path
+           d="M 142,230 H 38 c -1.398,0 -2.693,-0.729 -3.42,-1.924 -0.725,-1.195 -0.773,-2.682 -0.129,-3.922 l 52,-100 c 1.375,-2.648 5.723,-2.648 7.098,0 l 52,100 c 0.645,1.24 0.596,2.727 -0.129,3.922 -0.727,1.195 -2.022,1.924 -3.42,1.924 z m -97.412,-8 h 90.824 L 90,134.67 Z"
+           fill="#4c241d"
+           id="path319033" />
+      </g>
+      <g
+         id="g319041">
+        <path
+           d="m 90,158 -24,68 h 48 z"
+           fill="#6b4f5b"
+           id="path319037" />
+        <path
+           d="M 114,230 H 66 c -1.299,0 -2.516,-0.631 -3.266,-1.689 -0.75,-1.061 -0.938,-2.418 -0.506,-3.643 l 24,-68 C 86.793,155.07 88.305,154 90,154 c 1.695,0 3.207,1.07 3.771,2.668 l 24,68 c 0.432,1.225 0.244,2.582 -0.506,3.643 C 116.516,229.369 115.299,230 114,230 Z m -42.346,-8 h 36.691 L 90,170.018 Z"
+           fill="#4c241d"
+           id="path319039" />
+      </g>
+      <g
+         id="g319047">
+        <path
+           d="m 90,114 v 48"
+           fill="#77a052"
+           id="path319043" />
+        <path
+           d="m 90,166 c -2.209,0 -4,-1.791 -4,-4 v -48 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 48 c 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319045" />
+      </g>
+      <g
+         id="g319053">
+        <path
+           d="m 150,226 h -8"
+           fill="#77a052"
+           id="path319049" />
+        <path
+           d="m 150,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319051" />
+      </g>
+      <g
+         id="g319059">
+        <path
+           d="m 30,226 h 8"
+           fill="#77a052"
+           id="path319055" />
+        <path
+           d="m 38,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319057" />
+      </g>
+      <g
+         id="g319065">
+        <path
+           d="M 150,138 98,226 H 202 Z"
+           fill="#77a052"
+           id="path319061" />
+        <path
+           d="M 202,230 H 98 c -1.436,0 -2.762,-0.77 -3.475,-2.018 -0.711,-1.248 -0.699,-2.781 0.031,-4.018 l 52,-88 c 1.438,-2.434 5.449,-2.434 6.887,0 l 52,88 c 0.73,1.236 0.742,2.77 0.031,4.018 C 204.762,229.23 203.436,230 202,230 Z m -96.99,-8 h 89.98 L 150,145.863 Z"
+           fill="#4c241d"
+           id="path319063" />
+      </g>
+      <g
+         id="g319071">
+        <path
+           d="m 150,170 -24,56 h 48 z"
+           fill="#6b4f5b"
+           id="path319067" />
+        <path
+           d="m 174,230 h -48 c -1.344,0 -2.6,-0.676 -3.34,-1.799 -0.74,-1.121 -0.867,-2.541 -0.336,-3.777 l 24,-56 C 146.953,166.953 148.4,166 150,166 c 1.6,0 3.047,0.953 3.676,2.424 l 24,56 c 0.531,1.236 0.404,2.656 -0.336,3.777 C 176.6,229.324 175.344,230 174,230 Z m -41.934,-8 h 35.867 L 150,180.154 Z"
+           fill="#4c241d"
+           id="path319069" />
+      </g>
+      <g
+         id="g319077">
+        <path
+           d="m 150,126 v 48"
+           fill="#77a052"
+           id="path319073" />
+        <path
+           d="m 150,178 c -2.209,0 -4,-1.791 -4,-4 v -48 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 48 c 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319075" />
+      </g>
+      <g
+         id="g319083">
+        <path
+           d="m 210,226 h -8"
+           fill="#77a052"
+           id="path319079" />
+        <path
+           d="m 210,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319081" />
+      </g>
+      <g
+         id="g319089">
+        <path
+           d="m 90,226 h 8"
+           fill="#77a052"
+           id="path319085" />
+        <path
+           d="m 98,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319087" />
+      </g>
+      <g
+         id="g319095">
+        <path
+           d="M 210,114 158,226 H 262 Z"
+           fill="#77a052"
+           id="path319091"
+           style="fill:#4c81d3;fill-opacity:1" />
+        <path
+           d="M 262,230 H 158 c -1.365,0 -2.637,-0.697 -3.371,-1.848 -0.736,-1.152 -0.832,-2.598 -0.258,-3.836 l 52,-112 C 207.027,110.904 208.443,110 210,110 c 1.557,0 2.973,0.904 3.629,2.316 l 52,112 c 0.574,1.238 0.479,2.684 -0.258,3.836 C 264.637,229.303 263.365,230 262,230 Z m -97.732,-8 h 91.465 L 210,123.498 Z"
+           fill="#4c241d"
+           id="path319093" />
+      </g>
+      <g
+         id="g319101">
+        <path
+           d="m 210,146 -24,80 h 48 z"
+           fill="#6b4f5b"
+           id="path319097" />
+        <path
+           d="m 234,230 h -48 c -1.264,0 -2.455,-0.598 -3.209,-1.611 -0.756,-1.016 -0.986,-2.326 -0.623,-3.537 l 24,-80 C 206.676,143.159 208.234,142 210,142 c 1.766,0 3.324,1.158 3.832,2.852 l 24,80 c 0.363,1.211 0.133,2.521 -0.623,3.537 C 236.455,229.402 235.264,230 234,230 Z m -42.623,-8 h 37.246 L 210,159.92 Z"
+           fill="#4c241d"
+           id="path319099" />
+      </g>
+      <g
+         id="g319107">
+        <path
+           d="m 210,102 v 48"
+           fill="#77a052"
+           id="path319103" />
+        <path
+           d="m 210,154 c -2.209,0 -4,-1.791 -4,-4 v -48 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 48 c 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319105" />
+      </g>
+      <g
+         id="g319113">
+        <path
+           d="m 270,226 h -8"
+           fill="#77a052"
+           id="path319109" />
+        <path
+           d="m 270,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319111" />
+      </g>
+      <g
+         id="g319119">
+        <path
+           d="m 150,226 h 8"
+           fill="#77a052"
+           id="path319115" />
+        <path
+           d="m 158,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
+           fill="#4c241d"
+           id="path319117" />
+      </g>
+      <g
+         fill="#bf7e68"
+         id="g319137">
+        <circle
+           cx="62.827999"
+           cy="239.453"
+           r="4.276"
+           id="circle319121" />
+        <circle
+           cx="94.828003"
+           cy="259.453"
+           r="4.276"
+           id="circle319123" />
+        <circle
+           cx="122.828"
+           cy="239.453"
+           r="4.276"
+           id="circle319125" />
+        <circle
+           cx="138.828"
+           cy="255.453"
+           r="4.276"
+           id="circle319127" />
+        <circle
+           cx="174.828"
+           cy="243.453"
+           r="4.276"
+           id="circle319129" />
+        <circle
+           cx="202.828"
+           cy="259.453"
+           r="4.276"
+           id="circle319131" />
+        <circle
+           cx="210.828"
+           cy="247.453"
+           r="4.276"
+           id="circle319133" />
+        <circle
+           cx="246.828"
+           cy="243.453"
+           r="4.276"
+           id="circle319135" />
+      </g>
+      <g
+         id="g319143">
+        <path
+           d="m 174,42 h 36 v 32 h -36 z"
+           fill="#ffffff"
+           id="path319139"
+           style="fill:#ff503e;fill-opacity:1" />
+        <path
+           d="m 210,78 h -36 c -2.209,0 -4,-1.791 -4,-4 V 42 c 0,-2.209 1.791,-4 4,-4 h 36 c 2.209,0 4,1.791 4,4 v 32 c 0,2.209 -1.791,4 -4,4 z m -32,-8 h 28 V 46 h -28 z"
+           fill="#4c241d"
+           id="path319141" />
+      </g>
+      <g
+         id="g319149">
+        <path
+           d="m 194,50 h 36 v 32 h -36 z"
+           fill="#ffffff"
+           id="path319145"
+           style="fill:#ff503e;fill-opacity:1" />
+        <path
+           d="m 230,86 h -36 c -2.209,0 -4,-1.791 -4,-4 V 50 c 0,-2.209 1.791,-4 4,-4 h 36 c 2.209,0 4,1.791 4,4 v 32 c 0,2.209 -1.791,4 -4,4 z m -32,-8 h 28 V 54 h -28 z"
+           fill="#4c241d"
+           id="path319147" />
+      </g>
     </g>
     <g
-       id="g570401"
-       transform="translate(-6.9181285,2.3293618)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="190.06183"
-         y="906.63507"
-         id="text295185-9"><tspan
-           style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="190.06183"
-           y="906.63507"
-           sodipodi:role="line"
-           id="tspan383696">Practical use of the BlackBox </tspan><tspan
-           style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="190.06183"
-           y="924.27393"
-           sodipodi:role="line"
-           id="tspan540258">started in 2019 to test him.</tspan><tspan
-           style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="190.06183"
-           y="941.91284"
-           sodipodi:role="line"
-           id="tspan540256">    To the 2020 year used BlackBox </tspan><tspan
-           style="font-size:14.1111px;text-align:center;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-           x="190.06183"
-           y="959.5517"
-           sodipodi:role="line"
-           id="tspan540260">for at least 110 people.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.7px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264584"
-         x="684.91931"
-         y="880.24786"
-         id="text278561-0-9"><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="880.24786"
-           id="tspan378150">On basis of feedback, </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="897.88672"
-           id="tspan569517">in the year 2021 </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="915.52563"
-           id="tspan568043">has been designed </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="933.16449"
-           id="tspan568045">the next device, Lantern. </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="950.80334"
-           id="tspan568047">    Now the devices have 322 </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="968.44226"
-           id="tspan568051">enthusiastic users on many </tspan><tspan
-           sodipodi:role="line"
-           style="font-size:14.1111px;text-align:center;text-anchor:middle;stroke-width:0.264584"
-           x="684.91931"
-           y="986.08112"
-           id="tspan568053">camps or adventure events.</tspan></text>
+       id="g385441"
+       transform="matrix(1.2512373,0,0,1.2512373,461.11602,937.49338)">
+      <path
+         d="M 59.5,51.142 V 37 A 1.2,1.2 0 0 0 58.89,36.079 L 36.914,26.09 a 1,1 0 0 0 -0.828,0 l -22,10 a 1,1 0 0 0 0,1.82 l 22,10 a 1,1 0 0 0 0.828,0 L 57.5,38.553 V 51.142 A 4,4 0 0 0 54.5,55 v 4 a 4,4 0 0 0 8,0 v -4 a 4,4 0 0 0 -3,-3.858 z"
+         fill="#c4a2fc"
+         id="path385415" />
+      <path
+         d="M 35.257,49.73 20.5,43.022 V 48 c 0,5.607 7.028,10 16,10 8.972,0 16,-4.393 16,-10 V 43.023 L 37.741,49.731 A 3,3 0 0 1 35.257,49.73 Z"
+         fill="#c4a2fc"
+         id="path385417" />
       <g
-         id="g319151"
-         transform="matrix(0.56738436,0,0,0.56738615,339.3931,835.9461)">
-        <circle
-           cx="174"
-           cy="122"
-           fill="#edebdc"
-           r="92"
-           id="circle319009"
-           style="fill:#edeb9f;fill-opacity:1" />
+         fill="#151a6a"
+         id="g385427">
         <path
-           d="m 126,78 c -2.209,0 -4,-1.791 -4,-4 v -8 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 8 c 0,2.209 -1.791,4 -4,4 z"
-           fill="#4c241d"
-           id="path319011" />
+           d="m 35.5,1 h -31 a 3,3 0 0 0 -3,3 v 42 a 3,3 0 0 0 3,3 h 31 a 3,3 0 0 0 3,-3 V 4 a 3,3 0 0 0 -3,-3 z m -30,46 h -1 a 1,1 0 0 1 -1,-1 V 4 a 1,1 0 0 1 1,-1 h 1 z m 31,-1 a 1,1 0 0 1 -1,1 H 7.5 V 3 h 28 a 1,1 0 0 1 1,1 z"
+           id="path385419" />
         <path
-           d="m 126,102 c -2.209,0 -4,-1.791 -4,-4 v -8 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 8 c 0,2.209 -1.791,4 -4,4 z"
-           fill="#4c241d"
-           id="path319013" />
+           d="m 17.5,11 h 9 a 1,1 0 0 0 0,-2 h -9 a 1,1 0 0 0 0,2 z"
+           id="path385421" />
         <path
-           d="m 118,86 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-           fill="#4c241d"
-           id="path319015" />
+           d="m 29.5,38 h -15 a 1,1 0 0 0 0,2 h 15 a 1,1 0 0 0 0,-2 z"
+           id="path385423" />
         <path
-           d="m 142,86 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-           fill="#4c241d"
-           id="path319017" />
-        <path
-           d="m 68,70 c -7.719,0 -14,-6.281 -14,-14 0,-7.719 6.281,-14 14,-14 7.719,0 14,6.281 14,14 0,7.719 -6.281,14 -14,14 z m 0,-20 c -3.309,0 -6,2.691 -6,6 0,3.309 2.691,6 6,6 3.309,0 6,-2.691 6,-6 0,-3.309 -2.691,-6 -6,-6 z"
-           fill="#4c241d"
-           id="path319019" />
-        <circle
-           cx="106.828"
-           cy="47.452999"
-           fill="#4c241d"
-           r="4.276"
-           id="circle319021" />
-        <path
-           d="M 234,270 H 66 C 46.118,270 30,253.882 30,234 v -8 h 240 v 8 c 0,19.882 -16.118,36 -36,36 z"
-           fill="#ffded5"
-           id="path319023" />
-        <g
-           id="g319029">
-          <path
-             d="M 174,226 V 34"
-             fill="#77a052"
-             id="path319025" />
-          <path
-             d="m 174,230 c -2.209,0 -4,-1.791 -4,-4 V 34 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 192 c 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319027" />
-        </g>
-        <g
-           id="g319035">
-          <path
-             d="M 90,126 38,226 h 104 z"
-             fill="#77a052"
-             id="path319031"
-             style="fill:#a87028;fill-opacity:1" />
-          <path
-             d="M 142,230 H 38 c -1.398,0 -2.693,-0.729 -3.42,-1.924 -0.725,-1.195 -0.773,-2.682 -0.129,-3.922 l 52,-100 c 1.375,-2.648 5.723,-2.648 7.098,0 l 52,100 c 0.645,1.24 0.596,2.727 -0.129,3.922 -0.727,1.195 -2.022,1.924 -3.42,1.924 z m -97.412,-8 h 90.824 L 90,134.67 Z"
-             fill="#4c241d"
-             id="path319033" />
-        </g>
-        <g
-           id="g319041">
-          <path
-             d="m 90,158 -24,68 h 48 z"
-             fill="#6b4f5b"
-             id="path319037" />
-          <path
-             d="M 114,230 H 66 c -1.299,0 -2.516,-0.631 -3.266,-1.689 -0.75,-1.061 -0.938,-2.418 -0.506,-3.643 l 24,-68 C 86.793,155.07 88.305,154 90,154 c 1.695,0 3.207,1.07 3.771,2.668 l 24,68 c 0.432,1.225 0.244,2.582 -0.506,3.643 C 116.516,229.369 115.299,230 114,230 Z m -42.346,-8 h 36.691 L 90,170.018 Z"
-             fill="#4c241d"
-             id="path319039" />
-        </g>
-        <g
-           id="g319047">
-          <path
-             d="m 90,114 v 48"
-             fill="#77a052"
-             id="path319043" />
-          <path
-             d="m 90,166 c -2.209,0 -4,-1.791 -4,-4 v -48 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 48 c 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319045" />
-        </g>
-        <g
-           id="g319053">
-          <path
-             d="m 150,226 h -8"
-             fill="#77a052"
-             id="path319049" />
-          <path
-             d="m 150,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319051" />
-        </g>
-        <g
-           id="g319059">
-          <path
-             d="m 30,226 h 8"
-             fill="#77a052"
-             id="path319055" />
-          <path
-             d="m 38,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319057" />
-        </g>
-        <g
-           id="g319065">
-          <path
-             d="M 150,138 98,226 H 202 Z"
-             fill="#77a052"
-             id="path319061" />
-          <path
-             d="M 202,230 H 98 c -1.436,0 -2.762,-0.77 -3.475,-2.018 -0.711,-1.248 -0.699,-2.781 0.031,-4.018 l 52,-88 c 1.438,-2.434 5.449,-2.434 6.887,0 l 52,88 c 0.73,1.236 0.742,2.77 0.031,4.018 C 204.762,229.23 203.436,230 202,230 Z m -96.99,-8 h 89.98 L 150,145.863 Z"
-             fill="#4c241d"
-             id="path319063" />
-        </g>
-        <g
-           id="g319071">
-          <path
-             d="m 150,170 -24,56 h 48 z"
-             fill="#6b4f5b"
-             id="path319067" />
-          <path
-             d="m 174,230 h -48 c -1.344,0 -2.6,-0.676 -3.34,-1.799 -0.74,-1.121 -0.867,-2.541 -0.336,-3.777 l 24,-56 C 146.953,166.953 148.4,166 150,166 c 1.6,0 3.047,0.953 3.676,2.424 l 24,56 c 0.531,1.236 0.404,2.656 -0.336,3.777 C 176.6,229.324 175.344,230 174,230 Z m -41.934,-8 h 35.867 L 150,180.154 Z"
-             fill="#4c241d"
-             id="path319069" />
-        </g>
-        <g
-           id="g319077">
-          <path
-             d="m 150,126 v 48"
-             fill="#77a052"
-             id="path319073" />
-          <path
-             d="m 150,178 c -2.209,0 -4,-1.791 -4,-4 v -48 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 48 c 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319075" />
-        </g>
-        <g
-           id="g319083">
-          <path
-             d="m 210,226 h -8"
-             fill="#77a052"
-             id="path319079" />
-          <path
-             d="m 210,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319081" />
-        </g>
-        <g
-           id="g319089">
-          <path
-             d="m 90,226 h 8"
-             fill="#77a052"
-             id="path319085" />
-          <path
-             d="m 98,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319087" />
-        </g>
-        <g
-           id="g319095">
-          <path
-             d="M 210,114 158,226 H 262 Z"
-             fill="#77a052"
-             id="path319091"
-             style="fill:#4c81d3;fill-opacity:1" />
-          <path
-             d="M 262,230 H 158 c -1.365,0 -2.637,-0.697 -3.371,-1.848 -0.736,-1.152 -0.832,-2.598 -0.258,-3.836 l 52,-112 C 207.027,110.904 208.443,110 210,110 c 1.557,0 2.973,0.904 3.629,2.316 l 52,112 c 0.574,1.238 0.479,2.684 -0.258,3.836 C 264.637,229.303 263.365,230 262,230 Z m -97.732,-8 h 91.465 L 210,123.498 Z"
-             fill="#4c241d"
-             id="path319093" />
-        </g>
-        <g
-           id="g319101">
-          <path
-             d="m 210,146 -24,80 h 48 z"
-             fill="#6b4f5b"
-             id="path319097" />
-          <path
-             d="m 234,230 h -48 c -1.264,0 -2.455,-0.598 -3.209,-1.611 -0.756,-1.016 -0.986,-2.326 -0.623,-3.537 l 24,-80 C 206.676,143.159 208.234,142 210,142 c 1.766,0 3.324,1.158 3.832,2.852 l 24,80 c 0.363,1.211 0.133,2.521 -0.623,3.537 C 236.455,229.402 235.264,230 234,230 Z m -42.623,-8 h 37.246 L 210,159.92 Z"
-             fill="#4c241d"
-             id="path319099" />
-        </g>
-        <g
-           id="g319107">
-          <path
-             d="m 210,102 v 48"
-             fill="#77a052"
-             id="path319103" />
-          <path
-             d="m 210,154 c -2.209,0 -4,-1.791 -4,-4 v -48 c 0,-2.209 1.791,-4 4,-4 2.209,0 4,1.791 4,4 v 48 c 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319105" />
-        </g>
-        <g
-           id="g319113">
-          <path
-             d="m 270,226 h -8"
-             fill="#77a052"
-             id="path319109" />
-          <path
-             d="m 270,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319111" />
-        </g>
-        <g
-           id="g319119">
-          <path
-             d="m 150,226 h 8"
-             fill="#77a052"
-             id="path319115" />
-          <path
-             d="m 158,230 h -8 c -2.209,0 -4,-1.791 -4,-4 0,-2.209 1.791,-4 4,-4 h 8 c 2.209,0 4,1.791 4,4 0,2.209 -1.791,4 -4,4 z"
-             fill="#4c241d"
-             id="path319117" />
-        </g>
-        <g
-           fill="#bf7e68"
-           id="g319137">
-          <circle
-             cx="62.827999"
-             cy="239.453"
-             r="4.276"
-             id="circle319121" />
-          <circle
-             cx="94.828003"
-             cy="259.453"
-             r="4.276"
-             id="circle319123" />
-          <circle
-             cx="122.828"
-             cy="239.453"
-             r="4.276"
-             id="circle319125" />
-          <circle
-             cx="138.828"
-             cy="255.453"
-             r="4.276"
-             id="circle319127" />
-          <circle
-             cx="174.828"
-             cy="243.453"
-             r="4.276"
-             id="circle319129" />
-          <circle
-             cx="202.828"
-             cy="259.453"
-             r="4.276"
-             id="circle319131" />
-          <circle
-             cx="210.828"
-             cy="247.453"
-             r="4.276"
-             id="circle319133" />
-          <circle
-             cx="246.828"
-             cy="243.453"
-             r="4.276"
-             id="circle319135" />
-        </g>
-        <g
-           id="g319143">
-          <path
-             d="m 174,42 h 36 v 32 h -36 z"
-             fill="#ffffff"
-             id="path319139"
-             style="fill:#ff503e;fill-opacity:1" />
-          <path
-             d="m 210,78 h -36 c -2.209,0 -4,-1.791 -4,-4 V 42 c 0,-2.209 1.791,-4 4,-4 h 36 c 2.209,0 4,1.791 4,4 v 32 c 0,2.209 -1.791,4 -4,4 z m -32,-8 h 28 V 46 h -28 z"
-             fill="#4c241d"
-             id="path319141" />
-        </g>
-        <g
-           id="g319149">
-          <path
-             d="m 194,50 h 36 v 32 h -36 z"
-             fill="#ffffff"
-             id="path319145"
-             style="fill:#ff503e;fill-opacity:1" />
-          <path
-             d="m 230,86 h -36 c -2.209,0 -4,-1.791 -4,-4 V 50 c 0,-2.209 1.791,-4 4,-4 h 36 c 2.209,0 4,1.791 4,4 v 32 c 0,2.209 -1.791,4 -4,4 z m -32,-8 h 28 V 54 h -28 z"
-             fill="#4c241d"
-             id="path319147" />
-        </g>
+           d="m 29.5,30 h -15 a 1,1 0 0 0 0,2 h 15 a 1,1 0 0 0 0,-2 z"
+           id="path385425" />
       </g>
-      <g
-         id="g385441"
-         transform="matrix(1.2512373,0,0,1.2512373,468.03415,935.16402)">
-        <path
-           d="M 59.5,51.142 V 37 A 1.2,1.2 0 0 0 58.89,36.079 L 36.914,26.09 a 1,1 0 0 0 -0.828,0 l -22,10 a 1,1 0 0 0 0,1.82 l 22,10 a 1,1 0 0 0 0.828,0 L 57.5,38.553 V 51.142 A 4,4 0 0 0 54.5,55 v 4 a 4,4 0 0 0 8,0 v -4 a 4,4 0 0 0 -3,-3.858 z"
-           fill="#c4a2fc"
-           id="path385415" />
-        <path
-           d="M 35.257,49.73 20.5,43.022 V 48 c 0,5.607 7.028,10 16,10 8.972,0 16,-4.393 16,-10 V 43.023 L 37.741,49.731 A 3,3 0 0 1 35.257,49.73 Z"
-           fill="#c4a2fc"
-           id="path385417" />
-        <g
-           fill="#151a6a"
-           id="g385427">
-          <path
-             d="m 35.5,1 h -31 a 3,3 0 0 0 -3,3 v 42 a 3,3 0 0 0 3,3 h 31 a 3,3 0 0 0 3,-3 V 4 a 3,3 0 0 0 -3,-3 z m -30,46 h -1 a 1,1 0 0 1 -1,-1 V 4 a 1,1 0 0 1 1,-1 h 1 z m 31,-1 a 1,1 0 0 1 -1,1 H 7.5 V 3 h 28 a 1,1 0 0 1 1,1 z"
-             id="path385419" />
-          <path
-             d="m 17.5,11 h 9 a 1,1 0 0 0 0,-2 h -9 a 1,1 0 0 0 0,2 z"
-             id="path385421" />
-          <path
-             d="m 29.5,38 h -15 a 1,1 0 0 0 0,2 h 15 a 1,1 0 0 0 0,-2 z"
-             id="path385423" />
-          <path
-             d="m 29.5,30 h -15 a 1,1 0 0 0 0,2 h 15 a 1,1 0 0 0 0,-2 z"
-             id="path385425" />
-        </g>
-      </g>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-62.964283,20.183188)"
-         id="text386455"
-         style="font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect386457)"
-         x="458.78906"
-         y="0"><tspan
-           x="1365.3408"
-           y="3873.9141"
-           id="tspan571039"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan571037">Both devices were used in the bachelor </tspan></tspan><tspan
-           x="1393.5479"
-           y="3933.9141"
-           id="tspan571043"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan571041">thesis, of Karolina Mikešová, with the </tspan></tspan><tspan
-           x="1397.1338"
-           y="3993.9141"
-           id="tspan571047"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan571045">name &quot;Using Modern Technologies in </tspan></tspan><tspan
-           x="1625.9775"
-           y="4053.9141"
-           id="tspan571051"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan571049">Camp Pedagogy&quot;.</tspan></tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-69.882412,22.51255)"
+       id="text386455"
+       style="font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect386457)"
+       x="458.78906"
+       y="0"><tspan
+         x="1365.3408"
+         y="3873.9141"
+         id="tspan625878"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan625876">Both devices were used in the bachelor </tspan></tspan><tspan
+         x="1393.5479"
+         y="3933.9141"
+         id="tspan625882"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan625880">thesis, of Karolina Mikešová, with the </tspan></tspan><tspan
+         x="1397.1338"
+         y="3993.9141"
+         id="tspan625886"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan625884">name &quot;Using Modern Technologies in </tspan></tspan><tspan
+         x="1625.9775"
+         y="4053.9141"
+         id="tspan625890"><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan625888">Camp Pedagogy&quot;.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12.7px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
