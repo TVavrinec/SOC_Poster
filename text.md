@@ -47,6 +47,8 @@
     V dnešní době mají za sebou tato zařízení nejméně xxx nadšených uživatelů na xx táborech a zážitkových akcích.
     Obě zařízení byla také využita v rámci bakalářské práce Karolíny Mikešové, s názvem "Využití Moderních Technologií v Táborové Pedagogice".
 
+    skeny QR codu na posteru https://app.qr-code-generator.com/manage/?aftercreate=1&count=1#!/?folder=all
+
 
 <!-- do 2020 > 110
 2021 > 212 = (48 + 20) + (40+4) + (17+2) + (49+5) + (25+2)
