@@ -1,12 +1,12 @@
 <h1>subtitle</h1>
     equipment for adventure events and interactive learning to programming
 
-<h2>what is BlackBox</h2>
+<h2>    what is BlackBox</h2>
     BlackBox is electronic equipment designed for learning and adventure events.
     one of the most important BlackBox features is storage for locking something.
     It can be controlled directly or for example via your smartphone.
 
-<h3>Peripheri of BlackBox</h3>
+<h3>        Peripheri of BlackBox</h3>
     BlackBox has many systems, such as sensors and output peripherals, for example, the light circle or possible wireless communication. 
 
 <h4>pressure pad.</h4>
