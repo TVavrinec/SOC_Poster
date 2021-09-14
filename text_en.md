@@ -18,12 +18,11 @@
     Thanks to his abilities, BlackBox is good for learning or teaching programming.
 
 <h2>Lantern</h2>
-    To the static application of BlackBox was suggested derivative equipment, Lantern.
-    The Lantern has four different storage, for example, for four teams in games.
+    We also designed a Latern: a immovable variant of BlackBox for static installations
+    The Lantern has four different storages. You can use them, e.g., for four teams in games.
 
 <h2>Real using</h2>
-    Practical use of BlackBox started in 2019 to test him.
-    To the 2020 year used BlackBox for at least 110 people.
-    On basis of feedback, in the year 2021 has been designed the next device, Lantern. 
-    Now the devices have 322 enthusiastic users on many camps or adventure events.
-    Both devices were used in the bachelor thesis, of Karolina Mikešová, with the name "Using Modern Technologies in Camp Pedagogy".
+    BlackBox was first used in 2019, By 2020 at least 110 children played a game with it.
+    Based of the feedback, we designed a new device - Lantern - in 2021. 
+    Both devices have over 320 enthusiastic users on many children camps or adventure games.
+    Both devices were used in the bachelor thesis of Karolina Mikešová: "Using Modern Technologies in Camp Pedagogy".
