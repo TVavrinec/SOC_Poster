@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.25"
-     inkscape:cx="898"
-     inkscape:cy="1094"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1667.3578"
+     inkscape:cy="1675.8431"
      inkscape:window-width="1916"
      inkscape:window-height="1048"
      inkscape:window-x="1920"
@@ -5374,9 +5374,9 @@
        transform="matrix(1.0000014,0,0,1,-6.5069827e-4,0.5047704)"><tspan
          x="419.57922"
          y="144.15027"
-         id="tspan976464"><tspan
+         id="tspan990251"><tspan
            style="font-size:16.9333px;-inkscape-font-specification:sans-serif;fill:#646464;stroke-width:0.264583"
-           id="tspan976462">Tomáš Vavrinec</tspan></tspan></text>
+           id="tspan990249">Tomáš Vavrinec</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12.7001px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264586"
@@ -29481,6 +29481,10 @@ LTkacIQhth5AHoWKCBiZ5TF6+h//AKWlDQXMM8YnA0K2wMIuM3V5ZRd//wCiqj9Sf//Z
        x="5.0596924"
        y="165.05969"
        ry="21.8507" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 674.43002,395.08408 -52.62684,4.7689 -0.83211,0.73584"
+       id="path979403" />
     <g
        id="g910572"
        transform="translate(0.11016464,-0.11016846)">
@@ -35169,34 +35173,14 @@ AAAAAACAzxBC+A/GZo+mPEoCBAAAAABJRU5ErkJggg==
          x="-19.268707"
          y="1013.1385" />
     </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:0.694751;stroke:none;stroke-width:0.227644;stroke-opacity:1"
-       id="rect662851"
-       width="119.81469"
-       height="32.637959"
-       x="686.16345"
-       y="455.99045" />
-    <rect
-       style="fill:#ffffff;fill-opacity:0.694751;stroke:none;stroke-width:0.224771;stroke-opacity:1"
-       id="rect662745-0"
-       width="116.12377"
-       height="32.830917"
-       x="617.44965"
-       y="508.33969" />
-    <rect
-       style="fill:#ffffff;fill-opacity:0.694751;stroke:none;stroke-width:0.293911;stroke-opacity:1"
-       id="rect662866"
-       width="208.58357"
-       height="31.251806"
-       x="306.63132"
-       y="480.81473" />
-    <rect
-       style="fill:#ffffff;fill-opacity:0.694751;stroke:none;stroke-width:0.212103;stroke-opacity:1"
-       id="rect662868"
-       width="103.40343"
-       height="32.830917"
-       x="395.06735"
-       y="366.83908" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 658.46554,451.71005 -41.85176,-14.53783 v 0"
+       id="path979518" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 463.57579,485.90154 52.76593,-43.22453 1.58123,0.37121"
+       id="path979522" />
     <rect
        style="fill:#ffffff;fill-opacity:0.694751;stroke:none;stroke-width:0.165223;stroke-opacity:1"
        id="rect662870"
@@ -35207,36 +35191,36 @@ AAAAAACAzxBC+A/GZo+mPEoCBAAAAABJRU5ErkJggg==
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="610.97437"
-       y="327.22058"
+       x="260.23181"
+       y="428.16876"
        id="text670271"><tspan
          sodipodi:role="line"
          id="tspan670269"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="610.97437"
-         y="327.22058">Accelerometer</tspan></text>
+         x="260.23181"
+         y="428.16876">Accelerometer</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="382.86755"
-       y="399.66998"
+       x="627.14862"
+       y="329.707"
        id="text681617"><tspan
          sodipodi:role="line"
          id="tspan681615"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="382.86755"
-         y="399.66998">Lock</tspan></text>
+         x="627.14862"
+         y="329.707">Lock</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="365.79446"
-       y="320.3812"
+       x="340.13391"
+       y="335.73404"
        id="text687285"><tspan
          sodipodi:role="line"
          id="tspan687283"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="365.79446"
-         y="320.3812">Light circle</tspan></text>
+         x="340.13391"
+         y="335.73404">Light circle</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -35248,6 +35232,10 @@ AAAAAACAzxBC+A/GZo+mPEoCBAAAAABJRU5ErkJggg==
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
          x="216.09315"
          y="493.51306">WiFi and Bluetooth</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 447.97617,420.63108 78.7604,-1.82724 v 0"
+       id="path979524" />
     <text
        xml:space="preserve"
        style="font-size:22.5778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -40126,24 +40114,24 @@ AAAAAAAAAAAArhwR+f8BQm98eFYfo7gAAAAASUVORK5CYII=
          y="0"><tspan
            x="1365.3408"
            y="3873.9141"
-           id="tspan976468"><tspan
+           id="tspan990255"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan976466">Both devices were used in the bachelor </tspan></tspan><tspan
+             id="tspan990253">Both devices were used in the bachelor </tspan></tspan><tspan
            x="1420.4307"
            y="3933.9141"
-           id="tspan976472"><tspan
+           id="tspan990259"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan976470">thesis of Karolina Mikešová: &quot;Using </tspan></tspan><tspan
+             id="tspan990257">thesis of Karolina Mikešová: &quot;Using </tspan></tspan><tspan
            x="1480.9697"
            y="3993.9141"
-           id="tspan976476"><tspan
+           id="tspan990263"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan976474">Modern Technologies in Camp </tspan></tspan><tspan
+             id="tspan990261">Modern Technologies in Camp </tspan></tspan><tspan
            x="1703.6846"
            y="4053.9141"
-           id="tspan976480"><tspan
+           id="tspan990267"><tspan
              style="text-align:center;text-anchor:middle"
-             id="tspan976478">Pedagogy&quot;.</tspan></tspan></text>
+             id="tspan990265">Pedagogy&quot;.</tspan></tspan></text>
       <g
          id="g385441"
          transform="matrix(1.2512373,0,0,1.2512373,473.47058,980.2693)">
@@ -49273,5 +49261,39 @@ AAAAAAAAAAAArhwR+f8BQm98eFYfo7gAAAAASUVORK5CYII=
 </svg>
       </svg>
     </g>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 623.68339,322.86262 -52.8402,22.23842 v 0"
+       id="path978961" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 486.23518,330.78859 57.71166,51.97084"
+       id="path979401"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 617.44965,508.33969 -38.7449,-57.54941 0.13722,0.41156"
+       id="path979520" />
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path980002"
+       cx="570.8432"
+       cy="345.10104"
+       rx="1.8066722"
+       ry="1.8470336" />
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path980002-6"
+       cx="543.94684"
+       cy="382.75943"
+       rx="1.8066722"
+       ry="1.8470336" />
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path980002-2"
+       cx="578.84198"
+       cy="451.20184"
+       rx="1.8066722"
+       ry="1.8470336" />
   </g>
 </svg>
